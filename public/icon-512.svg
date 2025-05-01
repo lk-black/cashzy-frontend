@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(50, 156) scale(0.8)">
+    <!-- Geometric shape -->
+    <path d="M0 100L100 0L200 100L100 200L0 100Z" fill="#A855F7"/>
+    <!-- Text -->
+    <text x="220" y="130" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="#A855F7">
+      Cashzy
+    </text>
+  </g>
+</svg>
