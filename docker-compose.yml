@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  frontend:
+    build: .
+    ports:
+      - "3000:80" # Porta externa 3000 -> Nginx interno 80
+    container_name: react_frontend
+    restart: always
